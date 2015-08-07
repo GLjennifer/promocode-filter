@@ -1,0 +1,44 @@
+[
+  {
+    "filename":"marketing-pieces_Part1.pdf",
+    "title":"Bruxzir rocks",
+    "promocode":"12345",
+    "expires":"Mar-16"
+  },
+  {
+    "filename":"marketing-pieces_Part2.pdf",
+    "title":"CAD/CAM so advanced",
+    "promocode":"23456",
+    "expires":"May-16"
+  },
+  {
+    "filename":"marketing-pieces_Part3.pdf",
+    "title":"bruxzir anterior better than ips emax",
+    "promocode":"A123",
+    "expires":"Apr-17"
+  },
+  {
+    "filename":"marketing-pieces_Part4.pdf",
+    "title":"Need your teeth cleaned",
+    "promocode":"B467",
+    "expires":"Sep-15"
+  },
+  {
+    "filename":"marketing-pieces_Part5.pdf",
+    "title":"crown world is our new lab",
+    "promocode":"C369",
+    "expires":"Oct-16"
+  },
+  {
+    "filename":"marketing-pieces_Part6.pdf",
+    "title":"get full arch prosthesis",
+    "promocode":"D745",
+    "expires":"Dec-15"
+  },
+  {
+    "filename":"marketing-pieces_Part7.pdf",
+    "title":"athletes need bite splints and mouth guards",
+    "promocode":"E694",
+    "expires":"Nov-15"
+  }
+]
